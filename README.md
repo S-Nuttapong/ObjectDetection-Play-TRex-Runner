@@ -2,7 +2,7 @@
 
 
 
-![GIF](Dino GIF.gif)
+![GIF](DIno GIF.gif)
 
 
 ## Introduction
