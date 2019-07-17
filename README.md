@@ -22,9 +22,9 @@ More promising solution is to take numerical data such as distance between obsta
 
 ## Instruction
 - Install the Object Detection API
-- Extracted Trex_runner.zip and extract inside Object Detection Directory
+- Download Trex_runner.zip and extract to Object Detection Directory
 - [Open Dinosaur game](http://www.trex-game.skipser.com/), bear in mind other soucres may give sinificantly different result
 - Run the TRex_runner.py
 
 ## Notes
-- This project was done on macbook pro with 1280x800 resolution, to achieve the same or better result the parameter of screen width, height in TRex_Runner.py must be adjusted accordingly
+- This project was done on macbook pro with 1280x800 resolution, to achieve the same or better result the parameter of screen  in TRex_Runner.py must be adjusted accordingly
