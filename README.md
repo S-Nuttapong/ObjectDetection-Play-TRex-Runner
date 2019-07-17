@@ -7,7 +7,7 @@
 
 
 ## Introduction
-This is only a part of my exploration of Object Detection and should not be considered as a good practice. So far model can achieve 400 points on average and 700 as the highest scores. The main challenges was computational power, model was able to run with 5 FPS with visualization as shown above, by turning off the visualization, model was able to retain a few more FPS, therefore model tend to do better on better computer. However, as the speed of the game increases and exceeds computer's capability, the model will not be able to capture the in coming obstacles and react in time. Hence Object detection may not be  efficient for this task.
+This is only a part of my exploration of Object Detection and should not be considered as a good practice. So far model can achieve 400 points on average and 700 as the highest scores. The main challenge is computational power, model was able to run with 5 FPS with visualization as shown above, by turning off the visualization, model was able to retain a few more FPS, therefore model tend to do better on better computer. However, as the speed of the game increases and exceeds computer's capability, the model will not be able to capture the in coming obstacles and react in time. Hence Object detection may not be  efficient for this task.
 
 ## Further thought
 More promising solution is to take numerical data such as distance between obstacles, speed of the game, size of dinosaur and obstacles directly from game's source then one may consider using reinforment learning algorithm, instead of taking screenshot as image array and feed to object detection as this is less resource intensive seems to be more suitable fr the task.
