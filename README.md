@@ -22,7 +22,7 @@ More promising solution is to take numerical data such as distance between obsta
 
 ## Instruction
 - Install the Object Detection API
-- Clone this repository and keep the files in Object Detection directories
+- Extracted Trex_runner.zip and extract inside Object Detection Directory
 - Run the TRex_runner.py
 
 ## Notes
