@@ -2,7 +2,8 @@
 
 
 
-![GIF](DIno GIF.gif)
+![DIno GIF](https://user-images.githubusercontent.com/52415315/61345304-b35be300-a87e-11e9-86ad-2b9a2eb613f3.gif)
+
 
 
 ## Introduction
