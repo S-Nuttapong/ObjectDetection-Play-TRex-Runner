@@ -22,8 +22,8 @@ More promising solution is to take numerical data such as distance between obsta
 
 ## Instruction
 - Install the Object Detection API
-- Download Trex_runner.zip and extract to Object Detection Directory
-- [Open Dinosaur game](http://www.trex-game.skipser.com/), bear in mind other soucres may give sinificantly different result
+- Download Trex_runner.zip and extract to Object Detection directory
+- [Open Dinosaur game](http://www.trex-game.skipser.com/), bear in mind other soucres may give different result
 - Run the TRex_runner.py
 
 ## Notes
